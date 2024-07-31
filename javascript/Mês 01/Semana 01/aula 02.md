@@ -14,7 +14,7 @@ Referência: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_struct
     * 1.2.1\. Declare uma variável nome com o valor "João". Exiba o valor de nome.
     * 1.2.2\. Declare uma variável sobrenome com o valor "Silva". Exiba o valor de sobrenome.
     * 1.2.3\. Declare uma variável cidade com o valor "São Paulo". Exiba o comprimento da string cidade.
-    * 1.2.4\. Declare uma variável frase com o valor "Olá, mundo!". Concatene a string " Como vai você?" a frase e exiba o resultado.
+    * 1.2.4\. Declare uma variável frase com o valor "Olá!". Concatene a string ", como vai você?" a frase e exiba o resultado.
     * 1.2.5\. Declare uma variável palavra com o valor "Olá". Concatene a string " mundo" a frase e exiba o resultado.
 
 * 1.3\. Tipo Boolean
