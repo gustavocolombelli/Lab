@@ -47,40 +47,40 @@ Operadores de atribuição: https://www.w3schools.com/js/js_assignment.asp
 
 Comparação e lógico: https://www.w3schools.com/js/js_comparisons.asp
 
-* 1.1\. Operadores aritméticos
-    * 1.1.1\. Declare duas variáveis a e b com os valores 10 e 5, respectivamente. Some a e b e exiba o resultado.
-    * 1.1.2\. Declare duas variáveis x e y com os valores 20 e 4, respectivamente. Subtraia y de x e exiba o resultado.
-    * 1.1.3\. Declare duas variáveis p e q com os valores 7 e 3, respectivamente. Multiplique p por q e exiba o resultado.
-    * 1.1.4\. Declare duas variáveis m e n com os valores 18 e 3, respectivamente. Divida m por n e exiba o resultado.
-    * 1.1.5\. Declare uma variável z com o valor 25. Encontre o resto da divisão de z por 4 e exiba o resultado.
-    * 1.1.6\. Declare duas variáveis c e d com os valores 15 e 7, respectivamente. Some c e d e exiba o resultado.
-    * 1.1.7\. Declare duas variáveis e e f com os valores 30 e 10, respectivamente. Subtraia f de e e exiba o resultado.
-    * 1.1.8\. Declare duas variáveis g e h com os valores 6 e 6, respectivamente. Multiplique g por h e exiba o resultado.
-    * 1.1.9\. Declare duas variáveis i e j com os valores 24 e 8, respectivamente. Divida i por j e exiba o resultado.
-    * 1.1.10\. Declare uma variável k com o valor 40. Encontre o resto da divisão de k por 6 e exiba o resultado.
-    * 1.1.11\. Declare duas variáveis l e m com os valores 12 e 8, respectivamente. Some l e m e exiba o resultado.
-    * 1.1.13\. Declare duas variáveis n e o com os valores 50 e 25, respectivamente. Subtraia o de n e exiba o resultado.
-    * 1.1.14\. Declare duas variáveis p e q com os valores 9 e 2, respectivamente. Multiplique p por q e exiba o resultado.
-    * 1.1.15\. Declare duas variáveis r e s com os valores 36 e 6, respectivamente. Divida r por s e exiba o resultado.
-    * 1.1.16\. Declare uma variável t com o valor 45. Encontre o resto da divisão de t por 7 e exiba o resultado.
-    * 1.1.17\. Utilizando precedência de operadores, declare três variáveis x, y e z com os valores 8, 4 e 2, respectivamente. Calcule a expressão (x + y) * z - x % y e exiba o resultado.
+* 2.1\. Operadores aritméticos
+    * 2.1.1\. Declare duas variáveis a e b com os valores 10 e 5, respectivamente. Some a e b e exiba o resultado.
+    * 2.1.2\. Declare duas variáveis x e y com os valores 20 e 4, respectivamente. Subtraia y de x e exiba o resultado.
+    * 2.1.3\. Declare duas variáveis p e q com os valores 7 e 3, respectivamente. Multiplique p por q e exiba o resultado.
+    * 2.1.4\. Declare duas variáveis m e n com os valores 18 e 3, respectivamente. Divida m por n e exiba o resultado.
+    * 2.1.5\. Declare uma variável z com o valor 25. Encontre o resto da divisão de z por 4 e exiba o resultado.
+    * 2.1.6\. Declare duas variáveis c e d com os valores 15 e 7, respectivamente. Some c e d e exiba o resultado.
+    * 2.1.7\. Declare duas variáveis e e f com os valores 30 e 10, respectivamente. Subtraia f de e e exiba o resultado.
+    * 2.1.8\. Declare duas variáveis g e h com os valores 6 e 6, respectivamente. Multiplique g por h e exiba o resultado.
+    * 2.1.9\. Declare duas variáveis i e j com os valores 24 e 8, respectivamente. Divida i por j e exiba o resultado.
+    * 2.1.10\. Declare uma variável k com o valor 40. Encontre o resto da divisão de k por 6 e exiba o resultado.
+    * 2.1.11\. Declare duas variáveis l e m com os valores 12 e 8, respectivamente. Some l e m e exiba o resultado.
+    * 2.1.13\. Declare duas variáveis n e o com os valores 50 e 25, respectivamente. Subtraia o de n e exiba o resultado.
+    * 2.1.14\. Declare duas variáveis p e q com os valores 9 e 2, respectivamente. Multiplique p por q e exiba o resultado.
+    * 2.1.15\. Declare duas variáveis r e s com os valores 36 e 6, respectivamente. Divida r por s e exiba o resultado.
+    * 2.1.16\. Declare uma variável t com o valor 45. Encontre o resto da divisão de t por 7 e exiba o resultado.
+    * 2.1.17\. Utilizando precedência de operadores, declare três variáveis x, y e z com os valores 8, 4 e 2, respectivamente. Calcule a expressão (x + y) * z - x % y e exiba o resultado.
 
-* 1.2\. Operadores de atribuição
-    * 1.2.1\. Declare uma variável a com o valor 5. Use o operador de adição para adicionar 3 a a e exiba o resultado.
-    * 1.2.2\. Declare uma variável b com o valor 10. Use o operador de subtração para subtrair 4 de b e exiba o resultado.
-    * 1.2.3\. Declare uma variável c com o valor 7. Use o operador de multiplicação para multiplicar c por 2 e exiba o resultado.
-    * 1.2.4\. Declare uma variável d com o valor 20. Use o operador de divisão para dividir d por 5 e exiba o resultado.
-    * 1.2.5\. Declare uma variável e com o valor 15. Use o operador de resto para obter o resto da divisão de e por 4 e exiba o resultado.
+* 2.2\. Operadores de atribuição
+    * 2.2.1\. Declare uma variável a com o valor 5. Use o operador de adição para adicionar 3 a a e exiba o resultado.
+    * 2.2.2\. Declare uma variável b com o valor 10. Use o operador de subtração para subtrair 4 de b e exiba o resultado.
+    * 2.2.3\. Declare uma variável c com o valor 7. Use o operador de multiplicação para multiplicar c por 2 e exiba o resultado.
+    * 2.2.4\. Declare uma variável d com o valor 20. Use o operador de divisão para dividir d por 5 e exiba o resultado.
+    * 2.2.5\. Declare uma variável e com o valor 15. Use o operador de resto para obter o resto da divisão de e por 4 e exiba o resultado.
 
-* 1.3\. Operadores de comparação e lógico
-    * 1.3.1\. Declare duas variáveis x e y com os valores 10 e 20, respectivamente. Compare se x é menor que y e exiba o resultado.
-    * 1.3.2\. Declare duas variáveis a e b com os valores 15 e 15, respectivamente. Compare se a é igual a b e exiba o resultado.
-    * 1.3.3\. Declare duas variáveis m e n com os valores 8 e 5, respectivamente. Compare se m é maior que n e exiba o resultado.
-    * 1.3.4\. Declare duas variáveis p e q com os valores 10 e 5, respectivamente. Compare se p é diferente de q e exiba o resultado.
-    * 1.3.5\. Declare duas variáveis c e d com os valores 12 e 4, respectivamente. Compare se c é maior ou igual a d e exiba o resultado.
-    * 1.3.6\. Declare duas variáveis e e f com os valores 7 e 9, respectivamente. Compare se e é menor ou igual a f e exiba o resultado.
-    * 1.3.7\. Declare uma variável g com o valor true e uma variável h com o valor false. Use o operador lógico E (&&) para verificar se g e h são verdadeiros e exiba o resultado.
-    * 1.3.8\. Declare uma variável i com o valor true e uma variável j com o valor false. Use o operador lógico OU (||) para verificar se i ou j é verdadeiro e exiba o resultado.
-    * 1.3.9\. Declare uma variável k com o valor true. Use o operador lógico de negação (!) para inverter o valor de k e exiba o resultado.
-    * 1.3.10\. Declare duas variáveis m e n com os valores 6 e 6, respectivamente. Compare se m é estritamente igual a n (===) e exiba o resultado.
+* 2.3\. Operadores de comparação e lógico
+    * 2.3.1\. Declare duas variáveis x e y com os valores 10 e 20, respectivamente. Compare se x é menor que y e exiba o resultado.
+    * 2.3.2\. Declare duas variáveis a e b com os valores 15 e 15, respectivamente. Compare se a é igual a b e exiba o resultado.
+    * 2.3.3\. Declare duas variáveis m e n com os valores 8 e 5, respectivamente. Compare se m é maior que n e exiba o resultado.
+    * 2.3.4\. Declare duas variáveis p e q com os valores 10 e 5, respectivamente. Compare se p é diferente de q e exiba o resultado.
+    * 2.3.5\. Declare duas variáveis c e d com os valores 12 e 4, respectivamente. Compare se c é maior ou igual a d e exiba o resultado.
+    * 2.3.6\. Declare duas variáveis e e f com os valores 7 e 9, respectivamente. Compare se e é menor ou igual a f e exiba o resultado.
+    * 2.3.7\. Declare uma variável g com o valor true e uma variável h com o valor false. Use o operador lógico E (&&) para verificar se g e h são verdadeiros e exiba o resultado.
+    * 2.3.8\. Declare uma variável i com o valor true e uma variável j com o valor false. Use o operador lógico OU (||) para verificar se i ou j é verdadeiro e exiba o resultado.
+    * 2.3.9\. Declare uma variável k com o valor true. Use o operador lógico de negação (!) para inverter o valor de k e exiba o resultado.
+    * 2.3.10\. Declare duas variáveis m e n com os valores 6 e 6, respectivamente. Compare se m é estritamente igual a n (===) e exiba o resultado.
 
