@@ -1,8 +1,7 @@
 ## Arrays e Funções declaradas
 ### Exercícios de fixação
 #### 1. Arrays
-
-Referência: https://www.w3schools.com/js/js_arrays.asp
+>Arrays: https://www.w3schools.com/js/js_arrays.asp
 
 * 1.1\. Arrays
     * 1.1.1\. Declare um array com 5 atribua variaveis do tipo number em cada uma e imprima a posicao 3
@@ -18,10 +17,9 @@ Referência: https://www.w3schools.com/js/js_arrays.asp
     * 1.1.11\. Crie um array e utilizando a funcao slice, obtenha uma copia pelo indice definido na parametrizacao informada de sua preferencia
     * 1.1.12\. Crie um array, atribua 6 frutas e utilizando a funcao includes, verifique se o parâmetro informado na função é existente dentro do array 
     * 1.1.13\. Utilizando o array anterior, utilize a função reverse para inverter a ordem dos elementos do array
-#### 2. Funcoes Declaradas
-Referências: 
 
-Funcoes Declaradas: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+#### 2. Funcoes Declaradas
+>Funcoes Declaradas: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
 * 2.1\. Funcoes Declaradas
     * 2.1.1\. Declare uma função chamada saudacao que exiba "Olá, Mundo!" no console.
