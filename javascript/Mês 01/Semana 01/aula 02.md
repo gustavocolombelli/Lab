@@ -21,7 +21,7 @@ Referência: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_struct
 * 1.3\. Tipo Boolean
     * 1.3.1\. Declare uma variável verdadeiro com o valor true. Exiba o valor de verdadeiro.
     * 1.3.2\. Declare uma variável falso com o valor false. Exiba o valor de falso.
-    * 1.3.3\. Declare uma variável comparacao com a expressão 5 > 3. Exiba o valor de comparacao.
+    * 1.3.3\. Declare uma variável comparacao com a expressão 5 > 3. Exiba o valor de comparação.
     * 1.3.4\. Declare uma variável igualdade com a expressão 10 === 10. Exiba o valor de igualdade.
     * 1.3.5\. Declare uma variável diferenca com a expressão 20 !== 15. Exiba o valor de diferenca.
 
