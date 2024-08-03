@@ -1,7 +1,7 @@
 ## Tipos primitivos de dados, operadores aritméticos, de atribuição, comparação e lógico.
 ### Exercícios e fixação
 #### 1. Tipos primitivos de dados
-Referência: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+>Referência: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 
 * 1.1\. Tipo Number
     * 1.1.1\. Declare uma variável x com o valor 10. Multiplique x por 2 e exiba o resultado.
@@ -40,13 +40,13 @@ Referência: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_struct
     * 1.5.5\. Declare uma variável b sem atribuir nenhum valor. Redefina b para false e exiba o novo valor.
 
 #### 2. Operadores aritméticos, atribuição, comparação e lógico.
-Referências: 
-
-Operadores aritméticos: https://www.w3schools.com/js/js_assignment.asp
-
-Operadores de atribuição: https://www.w3schools.com/js/js_assignment.asp
-
-Comparação e lógico: https://www.w3schools.com/js/js_comparisons.asp
+>Referências: 
+>
+>Operadores aritméticos: https://www.w3schools.com/js/js_assignment.asp
+>
+>Operadores de atribuição: https://www.w3schools.com/js/js_assignment.asp
+>
+>Comparação e lógico: https://www.w3schools.com/js/js_comparisons.asp
 
 * 2.1\. Operadores aritméticos
     * 2.1.1\. Declare duas variáveis a e b com os valores 10 e 5, respectivamente. Some a e b e exiba o resultado.
