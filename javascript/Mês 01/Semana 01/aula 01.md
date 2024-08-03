@@ -1,7 +1,7 @@
 ## Sintaxe básica, tipos de variáveis e imprimindo no console.
 ### Exercícios e fixação
 #### 1. Imprimindo no console
-Referência: https://www.w3schools.com/jsref/met_console_log.asp
+> Referência: https://www.w3schools.com/jsref/met_console_log.asp
 
 * 1.1\. Imprima "Hello World".
 * 1.2\. Imprima seu nome.
@@ -9,7 +9,7 @@ Referência: https://www.w3schools.com/jsref/met_console_log.asp
 * 1.4\. Imprima no console utilizando concatenação o seguinte texto: "A soma de dois numerós é X" em que X = a+b.
 
 #### 2. Sintaxe básica e tipos de variáveis
-Referência: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
+> Referência: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
 
 * 2.1\. Faça um comentário de uma linha no seu código explicando o que é case sensitive com suas palavras.
 * 2.2\. Faça um comentário de múltiplas linhas explicando os tipos de declarações de variáveis em javascript.
