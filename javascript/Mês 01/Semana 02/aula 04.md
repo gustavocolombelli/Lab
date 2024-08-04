@@ -18,7 +18,6 @@
 * 2.2\. Crie uma função chamada isBissexto que receberá um ano como parâmetro e retornará o valor booleano true se for bissexto e falso caso contrário [Método para determinar se um ano é bissexto](https://learn.microsoft.com/pt-br/office/troubleshoot/excel/determine-a-leap-year "Ano bissexto").
 * 2.3\. Crie uma função chamada isPar que receberá um numero como parâmetro e retornará true se for par, e false caso impar.
 * 2.4\. Crie uma função que receba dois números e retorne o maior dentre eles
-* 2.5\. 
 
 #### 3. Switch
 >https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
