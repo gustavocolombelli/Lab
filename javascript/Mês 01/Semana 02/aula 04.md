@@ -15,7 +15,7 @@
 >https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator
 
 * 2.1\. Crie uma função que recebe uma nota de um aluno e retorna "Aprovado" se a nota for maior ou igual a 70, e "Reprovado" caso contrário.
-* 2.2\. Crie uma função chamada isBissexto que receberá um ano como parâmetro e retornará o valor booleano true se for bissexto e falso caso contrário [Método para determinar se um ano é bissexto](https://learn.microsoft.com/pt-br/office/troubleshoot/excel/determine-a-leap-year "Ano bissexto").
+* 2.2\. Crie uma função chamada isBissexto(ano) que receberá um ano como parâmetro e retornará o valor booleano true se for bissexto e falso caso contrário [Método para determinar se um ano é bissexto](https://learn.microsoft.com/pt-br/office/troubleshoot/excel/determine-a-leap-year "Ano bissexto").
 * 2.3\. Crie uma função chamada isPar que receberá um numero como parâmetro e retornará true se for par, e false caso impar.
 * 2.4\. Crie uma função que receba dois números e retorne o maior dentre eles
 * 2.5\. 
@@ -35,25 +35,24 @@
 
 ### Desafio
 
-Neste desafio, desenvolva três funções que lidam com a verificação de anos bissextos e a contagem de dias nos meses. Crie uma função para determinar se um ano é bissexto. 
+Crie uma função imprimirDiasPorMes(ano) que receberá um ano e utilize o console.log para imprimir os dias por mês de um determinado ano.
 
-Crie uma função que retorna a quantidade de dias em um mês específico, utilizando um switch para lidar com cada mês do ano e ajustando o número de dias em fevereiro conforme o ano bissexto ou não.
+Saída esperada:
 
-Combine essas funções em uma função principal que, dado um ano, imprime a quantidade de dias para cada mês daquele ano.
+```javascript
+imprimirDiasPorMes(2024);
+// Saída esperada:
+// Janeiro: 31 dias
+// Fevereiro: 29 dias
+// Março: 31 dias
+// Abril: 30 dias
+// Maio: 31 dias
+// Junho: 30 dias
+// Julho: 31 dias
+// Agosto: 31 dias
+// Setembro: 30 dias
+// Outubro: 31 dias
+// Novembro: 30 dias
+// Dezembro: 31 dias
+```
 
-Função para Verificar Ano Bissexto
-
-A função deve receber um ano como parâmetro.
-Deve retornar true se o ano for bissexto e false caso contrário.
-Um ano é bissexto se for divisível por 4 e não divisível por 100, exceto se for divisível por 400.
-
-Função para Retornar a Quantidade de Dias no Mês
-A função deve receber um ano e um mês como parâmetros.
-Deve usar um switch para retornar a quantidade de dias no mês.
-Fevereiro deve considerar se o ano é bissexto para retornar 28 ou 29 dias.
-Os outros meses devem retornar a quantidade de dias correta (31 ou 30 dias).
-
-Função Final que Imprime a Quantidade de Dias por Mês para um Ano Específico
-A função deve receber um ano como parâmetro.
-Deve usar as funções anteriores para determinar e imprimir a quantidade de dias em cada mês do ano fornecido.
-A saída deve ser clara, indicando o nome do mês e a quantidade de dias.
