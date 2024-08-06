@@ -5,7 +5,7 @@
 
 * 1.1\. Arrays
     * 1.1.1\. Declare um array com 5 atribua variaveis do tipo number em cada uma e imprima a posicao 3
-    * 1.1.2\. Declare uma variavel i, atribua o valor 3 a ela e no índice do array do exercício anterior coloque x++
+    * 1.1.2\. Declare uma variavel x, atribua o valor 3 a ela e no índice do array do exercício anterior coloque ++x e observe o valor apresentado
     * 1.1.3\. Faça a mesma experiência para x--
     * 1.1.4\. Faça uma matriz 3x3 e em cada posicao, adicione um número e imprima toda a matriz
     * 1.1.5\. Faça uma matriz 4x4, declare uma variavel x = 0, e atribua em cada elemento da matriz x++  
