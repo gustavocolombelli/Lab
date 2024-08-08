@@ -22,7 +22,7 @@
 >
 
 * 3.1\. Escreva uma função recursiva que calcula o fatorial de um número.
-* 3.2\. Escreva uma função recursiva que calcula dada posição x da sequência de Fibonacci. 
+* 3.2\. Escreva uma função recursiva que mostra os 7 primeiros valores da sequência de Fibonacci.
 
 ### Desafios
 * Validador de CPF:
