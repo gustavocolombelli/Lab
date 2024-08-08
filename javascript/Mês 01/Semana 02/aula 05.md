@@ -13,20 +13,15 @@
 #### 2. While e do While
 >
 
-* 2.1\. 
-* 2.2\.
-* 2.3\.
-* 2.4\.
-* 2.5\.
+* 2.1\. Escreva um programa que use um loop while para imprimir os números de 1 a 10.
+* 2.2\. Escreva um programa que use um loop while para somar números até que a soma atinja ou ultrapasse 100.
+* 2.3\. Escreva um programa que use um loop while para fazer uma contagem regressiva de 10 a 1.
+* 2.4\. Inicialize um vetor com 10 números. Use um loop while para calcular a soma dos elementos do vetor.
 
 #### 3. Recursão
 >
 
-* 3.1\.
-* 3.2\.
-* 3.3\.
-* 3.4\.
-* 3.5\.
+* 3.1\. Escreva uma função recursiva que calcula o fatorial de um número.
 
 ### Desafios
 * Validador de CPF:
