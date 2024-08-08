@@ -22,6 +22,7 @@
 >
 
 * 3.1\. Escreva uma função recursiva que calcula o fatorial de um número.
+* 3.2\. Escreva uma função recursiva que calcula dada posição x da sequência de Fibonacci. 
 
 ### Desafios
 * Validador de CPF:
@@ -31,7 +32,7 @@ O cálculo se dá a partir da seguinte lógica:
 
 - Para o primeiro dígito verificador, multiplica-se o primeiro dígito básico por 10, o segundo por 9, o terceiro por 8, e assim consecutivamente até o nono dígito, multiplicado por 2. Em seguida, soma-se todos os resultados. Esta soma é multiplicada por 10 e então dividida por 11, onde o resto deste cálculo origina o primeiro dígito verificador.
 
-- Para o segundo dígito verificador, o processo é o mesmo, porém iniciando a multiplicação do primeiro dígito por 11 e encerrando a multiplicação do último dígito por 3. Então, o primeiro dígito verificador é multiplicado por 2 e adicionado à soma. Esta soma é multiplicada por 10 e dividida, onde o resto deste cálculo origina o segundo dígito verificador.
+- Para o segundo dígito verificador, o processo é o mesmo, porém iniciando a multiplicação do primeiro dígito por 11 e encerrando a multiplicação do último dígito por 3. Então, o primeiro dígito verificador é multiplicado por 2 e adicionado à soma. Esta soma é multiplicada por 10 e dividida por 11, onde o resto deste cálculo origina o segundo dígito verificador.
 
 Caso o resultado de um dígito verificador seja 10, o valor real dele é de zero.
 
